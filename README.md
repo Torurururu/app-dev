@@ -1,9 +1,16 @@
 # app-dev
 ***My first repository.***
-**my real tropa**
-Dan Lloyd Arpilleda
-Mel Patrick Langit
-Jan Bill Lister Agad
-Mitch The Goat
-Patrick the parahubog
-CGay
+
+# **My real tropa**
+
+1. Dan Lloyd Arpilleda
+
+2. Mel Patrick Langit
+
+3. Jan Bill Lister Agad
+
+4. Mitch The Goat
+
+5. Patrick the parahubog
+
+6. CGay
